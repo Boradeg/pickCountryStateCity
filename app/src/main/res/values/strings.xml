@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pickCountryStateCity</string>
+    <string-array name="Country">
+        <item>Atri</item>
+        <item>Bharadvaja</item>
+        <item>Bhrigu</item>
+        <item>Gotama</item>
+        <item>Kashyapa</item>
+        <item>Vasishtha</item>
+        <item>Vishvamitra</item>
+        <item>N/A</item>
+    </string-array>
+</resources>
